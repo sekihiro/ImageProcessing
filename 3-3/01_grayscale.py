@@ -6,6 +6,9 @@ import cv2
 
 IMG_PATH = '/home/seki/sample_data/animal.jpg'
 
+# ---------- 色空間の変換 ----------
+# グレースケール変換
+
 def main():
 
     # 入力画像の読み込み
